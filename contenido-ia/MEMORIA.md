@@ -16,6 +16,8 @@
 | Plus | ~47 | 1.200 | Sí |
 | Ultra | ~99 | 3.000 | Sí |
 - 5 videos/semana → Plus mínimo.
+- Estimación Isabella (30 videos/mes, Kling 3.0 720p ~7 créditos/clip de 5 s, con reintentos): ~1.700 créditos/mes si Isabella habla en video todo el tiempo → **Plus (1.200) no alcanza**. Con modo ahorro (solo 2 clips por video + imágenes fijas con voz) → ~900–1.100 → **Plus justo**. Dos cuentas (Isabella + tarotista) → **Ultra**.
+- La voz puede requerir otra herramienta (p. ej. ElevenLabs): costo extra a verificar.
 
 ## Proyección (supuesto $1/1.000 vistas, 20 videos/mes)
 - Realista: 5k vistas/video → ~$100/mes (neto ~$53 tras Plus).
