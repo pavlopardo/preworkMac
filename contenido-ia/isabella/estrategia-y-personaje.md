@@ -36,7 +36,7 @@ El producto propio y los afiliados suelen pagar más que las vistas en este nich
 ### Calendario semanal
 | Lun | Mar | Mié | Jue | Vie | Sáb | Dom |
 |---|---|---|---|---|---|---|
-| Consejo | Relato | Consejo | Relato | Consejo | Relato | Especial (ej. Oración del domingo) |
+| Consejo | Relato | Consejo | Relato | Consejo | Relato | Oración del domingo con nombres |
 
 Semana 1 empieza con la **presentación** el lunes (ver `guiones-semana-1.md`).
 

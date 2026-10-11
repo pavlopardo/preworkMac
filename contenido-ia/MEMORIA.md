@@ -39,4 +39,4 @@
 ## Decisiones de nombre (Isabella)
 - Nombre: **Isabella** ("consagrada a Dios"). Usuario: **@isabellafe**.
 - Descartados: Lucía, @devotamara (buena alternativa de reserva), "Mara + fe" ("mara" = pandilla en MX/CA; "amarga" en la Biblia).
-- Semana 1: 3 consejos + 3 relatos + especial de domingo (pendiente de elegir; propuesta A: "Oración del domingo").
+- Semana 1: 3 consejos + 3 relatos + "Oración del domingo" mencionando por su nombre a quienes lo piden en comentarios.

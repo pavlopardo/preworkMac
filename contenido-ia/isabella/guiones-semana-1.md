@@ -11,7 +11,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 | Jue | Relato 2: David y Goliat (Parte 1) | 45 s |
 | Vie | Consejo 3: miedo | 25 s |
 | Sáb | Relato 3: David y Goliat (Parte 2) | 45 s |
-| Dom | Especial: por definir (ver propuestas al final) | 40 s |
+| Dom | Especial: Oración del domingo con nombres | 45 s |
 
 ---
 
@@ -133,33 +133,38 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 > La piedra se clavó en la frente del gigante. Y Goliat cayó.
 
 [Isabella, 7 s] **Reflexión:**
-> David no ganó por ser el más fuerte. Ganó porque sabía quién peleaba con él. ¿Cuál es tu gigante hoy? Escríbelo… mañana oraré por eso.
+> David no ganó por ser el más fuerte. Ganó porque sabía quién peleaba con él. ¿Cuál es tu gigante hoy? Déjame tu nombre en los comentarios… y mañana oraré por ti, por tu nombre.
 > Que Dios te bendiga.
 
-**Caption:** Tu gigante no es más grande que tu Dios 🪨 Escribe cuál es el tuyo; mañana oro por ti 🤍 #DavidyGoliat #fe #Biblia
+**Caption:** Tu gigante no es más grande que tu Dios 🪨 Escribe tu nombre (y tu gigante, si quieres) y mañana oro por ti por tu nombre 🤍 #DavidyGoliat #fe #Biblia
 
 ---
 
-## DOM: Especial (por definir)
-Propuestas:
+## DOM: Especial "Oración del domingo" con nombres (40–50 s)
+Isabella ora **mencionando por su nombre** a quienes le escribieron en la semana.
 
-| Opción | Idea | Por qué funciona |
-|---|---|---|
-| **A. "Oración del domingo"** ⭐ | Isabella hace una oración por lo que la gente escribió en la semana (ansiedad, cansancio, miedo, "gigantes"). | Convierte comentarios en comunidad, hace que la gente vuelva cada domingo y cierra la semana. Los captions ya piden esos comentarios. |
-| B. "Tu pregunta a la Biblia" | Responde una pregunta de los comentarios con un versículo. | Genera conversación y da ideas de contenido gratis. |
-| C. "Versículo de la semana" | Un versículo para memorizar, en fondo bonito + su voz. | El más simple y barato. |
+**Reglas:**
+- Solo nombres de quienes lo **pidieron** (el sábado se pide "déjame tu nombre"). Así hay consentimiento.
+- **Solo el nombre de pila**, nunca @usuario completo ni apellidos.
+- **No mencionar detalles privados** junto al nombre (enfermedades, problemas familiares). Se agrupan por tema en general.
+- Elegir **8–12 nombres** de comentarios. Al resto: "y a todos los que me escribieron".
+- Los nombres cambian cada semana, así que se genera la voz nueva cada domingo (solo este video).
 
-### Guion opción A: Oración del domingo (40 s)
-[Isabella con velas encendidas suaves, manos juntas sobre la Biblia, ojos cerrados al orar]
+[Isabella con velas suaves encendidas, manos juntas sobre la Biblia. Los nombres aparecen en pantalla, uno a uno, en letra blanca elegante, mientras los dice.]
 
-> Esta semana muchos me escribieron. Algunos con ansiedad… otros cansados… otros con miedo… y muchos me contaron su gigante.
-> Hoy quiero orar por ti. Si quieres, cierra los ojos conmigo.
+> Esta semana muchos me escribieron… y hoy quiero orar por ti, por tu nombre.
+> Si quieres, cierra los ojos conmigo.
 > [Ojos cerrados]
-> Señor, pon tu paz en cada mente que no descansa. Da fuerzas al que ya no puede más. Quita el miedo del que no sabe qué viene. Y pelea por cada uno frente a su gigante. En el nombre de Jesús, amén.
+> Señor, hoy te presento a **[NOMBRE 1]**, a **[NOMBRE 2]**, a **[NOMBRE 3]** y a **[NOMBRE 4]**… dales tu paz en medio de la ansiedad.
+> Te pido por **[NOMBRE 5]**, **[NOMBRE 6]** y **[NOMBRE 7]**… dales fuerzas, que ya están cansados.
+> Y por **[NOMBRE 8]**, **[NOMBRE 9]** y **[NOMBRE 10]**… pelea por ellos frente a su gigante.
+> Y por cada persona que me escribió y no alcancé a nombrar: tú conoces su nombre mejor que nadie. En el nombre de Jesús, amén.
 > [Abre los ojos, sonríe]
-> Que Dios te bendiga. Nos vemos mañana para empezar una nueva semana.
+> Si no escuchaste tu nombre, déjalo aquí… el próximo domingo oro por ti. Que Dios te bendiga.
 
-**Caption:** Oración del domingo 🙏 por todos los que me escribieron esta semana. Escribe "Amén" si la recibes 🤍 #oración #Dios #fe #domingo
+**Caption:** Oración del domingo 🙏 por [NOMBRE 1], [NOMBRE 2], [NOMBRE 3]… y por todos los que me escribieron. ¿No escuchaste tu nombre? Déjalo en los comentarios y el próximo domingo oro por ti 🤍 #oración #Dios #fe #domingo
+
+**Por qué funciona:** cada persona nombrada lo comparte ("¡oró por mí!"), y el cierre pide nombres para la semana siguiente. El ciclo se repite solo.
 
 ---
 
