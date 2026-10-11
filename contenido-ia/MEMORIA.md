@@ -24,7 +24,7 @@
 ## Ideas de avatar
 | # | Idea | Estado | Notas |
 |---|---|---|---|
-| 1 | **Lucía – cristiana** (relatos bíblicos + palabra del día) | ✅ **ELEGIDA, semana 1 lista** | Ver `lucia/` |
+| 1 | **Isabella – cristiana** (relatos bíblicos + palabra del día) | ✅ **ELEGIDA, semana 1 lista** | Ver `isabella/` |
 | 2 | Divulgadora de salud (inspirada en "doctor ultra vital") | En reserva | No presentarla como médica con título. "Educadora en bienestar", fuentes, sin diagnósticos. |
 | 3 | Chico joven: finanzas + citas ("me alcanza para salir, ligar y llegar a fin de mes") | En reserva – 2ª cuenta | Idea más original. Humor + números reales. |
 | 4 | Tarotista / horóscopo (chica guapa) | En reserva | "Energía de la semana" por signo (12 videos/ciclo). Como entretenimiento. |

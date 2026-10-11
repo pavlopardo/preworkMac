@@ -1,4 +1,4 @@
-# Lucía: guiones de la semana 1
+# Isabella: guiones de la semana 1
 
 Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = indicaciones visuales.
 
@@ -16,9 +16,9 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 ---
 
 ## LUN: Presentación (30 s)
-[Lucía en su sala, luz de ventana, Biblia en la mesa. Mira a cámara y sonríe.]
+[Isabella en su sala, luz de ventana, Biblia en la mesa. Mira a cámara y sonríe.]
 
-> Hola, soy Lucía. 🤍
+> Hola, soy Isabella. 🤍
 > Si llegaste hasta aquí, no creo que sea casualidad.
 > [Toma la Biblia]
 > Cada día voy a compartirte una palabra de Dios para tu vida… y algunas de las historias más impresionantes de la Biblia, contadas como nunca te las contaron.
@@ -32,7 +32,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 ---
 
 ## MAR: Relato, Jesús calma la tormenta (Marcos 4:35-41), 50 s
-[Lucía, 5 s] **Gancho:**
+[Isabella, 5 s] **Gancho:**
 > ¿Alguna vez sentiste que Dios estaba dormido mientras tu vida se hundía? Mira esto.
 
 [Ilustración 1: barca al atardecer en el mar de Galilea]
@@ -53,7 +53,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 [Ilustración 6: mar en calma total, luz dorada]
 > Y todo quedó en calma.
 
-[Lucía, 8 s] **Reflexión:**
+[Isabella, 8 s] **Reflexión:**
 > Jesús no estaba ausente. Estaba en la barca. Y si está en la tuya, la tormenta no tiene la última palabra.
 > Que Dios te bendiga.
 
@@ -62,7 +62,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 ---
 
 ## MIÉ: Consejo, ansiedad (25 s)
-[Lucía en su set, tono suave]
+[Isabella en su set, tono suave]
 
 > Si hoy te despertaste con el pecho apretado y la mente a mil… esto es para ti.
 > La Biblia dice: *"Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios."* Filipenses 4:6.
@@ -75,7 +75,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 ---
 
 ## JUE: Relato, David y Goliat, Parte 1 (1 Samuel 17), 45 s
-[Lucía, 5 s] **Gancho:**
+[Isabella, 5 s] **Gancho:**
 > Un gigante de casi tres metros. Un ejército entero temblando. Y un muchacho que nadie tomaba en serio.
 
 [Ilustración 1: dos ejércitos frente a frente en un valle]
@@ -93,7 +93,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 [Ilustración 5: David mirando a Goliat a lo lejos, decidido]
 > …y al escuchar al gigante, dijo: "¿Quién es este para desafiar al ejército del Dios vivo?"
 
-[Lucía, 5 s]
+[Isabella, 5 s]
 > Lo que hizo después cambió la historia. Parte 2, el sábado. 🤍
 
 **Caption:** El gigante que todos temían… y el muchacho que no 🪨 Parte 2 el sábado. Sígueme para no perdértela. #DavidyGoliat #Biblia #fe
@@ -101,7 +101,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 ---
 
 ## VIE: Consejo, cansancio (25 s)
-[Lucía, más bajito, cercano]
+[Isabella, más bajito, cercano]
 
 > Si esta semana te dejó sin fuerzas… no tienes que fingir que estás bien.
 > Jesús dijo: *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* Mateo 11:28.
@@ -114,7 +114,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 ---
 
 ## SÁB: Relato, David y Goliat, Parte 2, 45 s
-[Lucía, 4 s] **Gancho:**
+[Isabella, 4 s] **Gancho:**
 > El jueves te dejé con un muchacho frente a un gigante. Esto pasó.
 
 [Ilustración 1: el rey Saúl ofreciendo su armadura a David]
@@ -132,7 +132,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 [Ilustración 5: el gigante cayendo]
 > La piedra se clavó en la frente del gigante. Y Goliat cayó.
 
-[Lucía, 7 s] **Reflexión:**
+[Isabella, 7 s] **Reflexión:**
 > David no ganó por ser el más fuerte. Ganó porque sabía quién peleaba con él. ¿Cuál es tu gigante hoy?
 > Que Dios te bendiga.
 
@@ -150,7 +150,7 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 
 ## Checklist antes de publicar
 - [ ] Crear cuentas con el mismo nombre en TikTok, Instagram, YouTube y Facebook.
-- [ ] Foto de perfil = retrato de referencia de Lucía.
+- [ ] Foto de perfil = retrato de referencia de Isabella.
 - [ ] Bio con "Personaje creado con IA ✨".
 - [ ] Activar la etiqueta de contenido IA al subir cada video.
 - [ ] Registrar la cuenta en Launchpoint y revisar sus términos.

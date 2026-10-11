@@ -1,4 +1,4 @@
-# Lucía: estrategia y personaje
+# Isabella: estrategia y personaje
 
 ## 1. Plataforma recomendada
 **Un solo video vertical (9:16), publicado en 4 lugares.** Mismo trabajo y más alcance.
@@ -17,7 +17,7 @@ Los requisitos cambian; verificar en cada plataforma.
 
 1. **Launchpoint**: pago por vistas desde el día 1, sin mínimo de seguidores (según su ficha).
 2. **Afiliados** (mes 1–2): Biblias, devocionales, libros cristianos, joyería (cruces), apps de oración. Link en bio.
-3. **Producto digital propio** (mes 2–3): PDF "30 días de oración con Lucía" o "Devocional para la ansiedad". Precio $5–10.
+3. **Producto digital propio** (mes 2–3): PDF "30 días de oración con Isabella" o "Devocional para la ansiedad". Precio $5–10.
 4. **Programas de las plataformas** (cuando cumpla requisitos): YouTube Partner Program, TikTok Creator Rewards, monetización de Facebook.
 5. **Marcas** (con audiencia): apps bíblicas, editoriales y tiendas cristianas.
 
@@ -28,7 +28,7 @@ El producto propio y los afiliados suelen pagar más que las vistas en este nich
 
 **Mejora (más atractiva y menos ambiciosa):**
 - **1 video al día alternando** (es el mismo volumen, mejor repartido). El algoritmo premia la constancia diaria.
-- **Relato: no animación completa.** Usar **4–6 ilustraciones fijas** de la escena, con movimiento lento de cámara y la voz de Lucía. Lucía aparece **al inicio (gancho) y al final (reflexión)**. Cuesta ~1/4 de créditos que animar todo, mantiene la consistencia visual y refuerza su cara.
+- **Relato: no animación completa.** Usar **4–6 ilustraciones fijas** de la escena, con movimiento lento de cámara y la voz de Isabella. Isabella aparece **al inicio (gancho) y al final (reflexión)**. Cuesta ~1/4 de créditos que animar todo, mantiene la consistencia visual y refuerza su cara.
 - **Relatos en serie**: "Parte 1, Parte 2". Hacen que la gente vuelva y siga la cuenta.
 - **Consejo diario de 20–30 s**: 1 problema + 1 versículo + 1 acción concreta. Mismo set siempre (reconocible y barato).
 - **Firma fija** al cerrar: *"Que Dios te bendiga. Nos vemos mañana."*
@@ -41,8 +41,8 @@ El producto propio y los afiliados suelen pagar más que las vistas en este nich
 Semana 1 empieza con la **presentación** el lunes (ver `guiones-semana-1.md`).
 
 ## 4. Personaje
-- **Nombre:** Lucía ("luz").
-- **Cuenta:** `@lucia.palabradiaria` (alternativas: `@conlucia.fe`, `@luciaylabiblia`).
+- **Nombre:** Isabella ("consagrada a Dios").
+- **Cuenta:** por definir (ver propuestas en MEMORIA.md).
 - **Bio:** `Una palabra de Dios para tu día 🤍 | Relatos de la Biblia | Personaje creado con IA ✨`
 - **Edad / look:** 27 años, guapa y decente. Cabello castaño oscuro largo, suelto u ondulado. Maquillaje natural. Ojos cálidos. Sonrisa serena.
 - **Ropa:** suéter tejido crema, blusas sencillas de tonos tierra, collar fino con cruz dorada. Nada escotado ni ajustado.
