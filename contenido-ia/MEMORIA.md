@@ -40,3 +40,9 @@
 - Nombre: **Isabella** ("consagrada a Dios"). Usuario: **@isabellafe**.
 - Descartados: Lucía, @devotamara (buena alternativa de reserva), "Mara + fe" ("mara" = pandilla en MX/CA; "amarga" en la Biblia).
 - Semana 1: 3 consejos + 3 relatos + "Oración del domingo" mencionando por su nombre a quienes lo piden en comentarios.
+
+## Próximos pasos (al retomar)
+1. Tarotista: proponer nombre y usuario.
+2. Isabella: preparar guiones de la semana 2 (temas ya en `isabella/plan-semanal.md`).
+3. Cuando se vincule Higgsfield: generar el retrato de referencia de Isabella (prompt en `isabella/estrategia-y-personaje.md`).
+4. Pendiente del usuario: crear @isabellafe en las 4 redes y revisar términos de Launchpoint.
