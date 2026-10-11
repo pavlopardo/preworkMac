@@ -27,7 +27,7 @@
 | 1 | **Isabella (@isabellafe) – cristiana** (relatos bíblicos + palabra del día) | ✅ **ELEGIDA, semana 1 lista** | Ver `isabella/` |
 | 2 | Divulgadora de salud (inspirada en "doctor ultra vital") | En reserva | No presentarla como médica con título. "Educadora en bienestar", fuentes, sin diagnósticos. |
 | 3 | Chico joven: finanzas + citas ("me alcanza para salir, ligar y llegar a fin de mes") | En reserva – 2ª cuenta | Idea más original. Humor + números reales. |
-| 4 | Tarotista / horóscopo (chica guapa) | En reserva | "Energía de la semana" por signo (12 videos/ciclo). Como entretenimiento. |
+| 4 | Tarotista / horóscopo (chica guapa) | Plan semanal en borrador (`tarotista/`) – nombre por definir | "Energía de la semana" por signo (12 videos/ciclo). Como entretenimiento. |
 | – | Cocina barata/rápida | ❌ Descartada (aburrida) | |
 | – | "Nova" astronauta-robot | ❌ Descartada (poco humana) | |
 
