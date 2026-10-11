@@ -24,7 +24,7 @@
 ## Ideas de avatar
 | # | Idea | Estado | Notas |
 |---|---|---|---|
-| 1 | **Isabella – cristiana** (relatos bíblicos + palabra del día) | ✅ **ELEGIDA, semana 1 lista** | Ver `isabella/` |
+| 1 | **Isabella (@isabellafe) – cristiana** (relatos bíblicos + palabra del día) | ✅ **ELEGIDA, semana 1 lista** | Ver `isabella/` |
 | 2 | Divulgadora de salud (inspirada en "doctor ultra vital") | En reserva | No presentarla como médica con título. "Educadora en bienestar", fuentes, sin diagnósticos. |
 | 3 | Chico joven: finanzas + citas ("me alcanza para salir, ligar y llegar a fin de mes") | En reserva – 2ª cuenta | Idea más original. Humor + números reales. |
 | 4 | Tarotista / horóscopo (chica guapa) | En reserva | "Energía de la semana" por signo (12 videos/ciclo). Como entretenimiento. |
@@ -35,3 +35,8 @@
 - Etiquetar como contenido IA (bio + etiqueta de la plataforma).
 - No imitar personas reales ni inventar testimonios personales falsos.
 - Sin títulos profesionales falsos (médica, pastora, etc.).
+
+## Decisiones de nombre (Isabella)
+- Nombre: **Isabella** ("consagrada a Dios"). Usuario: **@isabellafe**.
+- Descartados: Lucía, @devotamara (buena alternativa de reserva), "Mara + fe" ("mara" = pandilla en MX/CA; "amarga" en la Biblia).
+- Semana 1: 3 consejos + 3 relatos + especial de domingo (pendiente de elegir; propuesta A: "Oración del domingo").

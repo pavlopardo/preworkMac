@@ -1,37 +1,37 @@
-# Isabella: guiones de la semana 1
+# Isabella (@isabellafe): guiones de la semana 1
 
 Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = indicaciones visuales.
+**3 consejos + 3 relatos + 1 especial de domingo.**
 
 | Día | Video | Duración |
 |---|---|---|
-| Lun | Presentación | 30 s |
-| Mar | Relato: Jesús calma la tormenta | 50 s |
-| Mié | Consejo: ansiedad | 25 s |
-| Jue | Relato: David y Goliat (Parte 1) | 45 s |
-| Vie | Consejo: cansancio | 25 s |
-| Sáb | Relato: David y Goliat (Parte 2) | 45 s |
-| Dom | Repost del video con más vistas | — |
-| Reserva | Consejo: miedo | 25 s |
+| Lun | Consejo 1: presentación + ansiedad | 35 s |
+| Mar | Relato 1: Jesús calma la tormenta | 50 s |
+| Mié | Consejo 2: cansancio | 25 s |
+| Jue | Relato 2: David y Goliat (Parte 1) | 45 s |
+| Vie | Consejo 3: miedo | 25 s |
+| Sáb | Relato 3: David y Goliat (Parte 2) | 45 s |
+| Dom | Especial: por definir (ver propuestas al final) | 40 s |
 
 ---
 
-## LUN: Presentación (30 s)
+## LUN: Consejo 1, presentación + ansiedad (35 s)
 [Isabella en su sala, luz de ventana, Biblia en la mesa. Mira a cámara y sonríe.]
 
-> Hola, soy Isabella. 🤍
-> Si llegaste hasta aquí, no creo que sea casualidad.
-> [Toma la Biblia]
-> Cada día voy a compartirte una palabra de Dios para tu vida… y algunas de las historias más impresionantes de la Biblia, contadas como nunca te las contaron.
-> [Pausa, sonrisa]
-> Si hoy necesitabas un poco de paz, quédate.
+> Hola, soy Isabella. 🤍 Si llegaste hasta aquí, no creo que sea casualidad.
+> Cada día voy a compartirte una palabra de Dios para tu vida… y las historias más impresionantes de la Biblia.
+> [Toma la Biblia, tono suave]
+> Y hoy empiezo con algo para ti, si tu mente no para de preocuparse.
+> *"Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios."* Filipenses 4:6.
+> Escribe en un papel lo que te preocupa… y entrégaselo a Dios en una oración corta. Solo eso.
 > Que Dios te bendiga. Nos vemos mañana.
 
 **Texto en pantalla inicial:** "No llegaste aquí por casualidad"
-**Caption:** Una palabra de Dios para tu día y las historias de la Biblia como nunca te las contaron 🤍 Sígueme para no perderte ninguna. #Dios #Biblia #fe #cristianos #palabradeDios
+**Caption:** Soy Isabella 🤍 Cada día, una palabra de Dios para tu vida. Escribe "Lo entrego" si hoy le das tu preocupación a Dios. #Dios #fe #ansiedad #palabradeDios #Biblia
 
 ---
 
-## MAR: Relato, Jesús calma la tormenta (Marcos 4:35-41), 50 s
+## MAR: Relato 1, Jesús calma la tormenta (Marcos 4:35-41), 50 s
 [Isabella, 5 s] **Gancho:**
 > ¿Alguna vez sentiste que Dios estaba dormido mientras tu vida se hundía? Mira esto.
 
@@ -61,20 +61,20 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 
 ---
 
-## MIÉ: Consejo, ansiedad (25 s)
-[Isabella en su set, tono suave]
+## MIÉ: Consejo 2, cansancio (25 s)
+[Isabella, más bajito, cercana]
 
-> Si hoy te despertaste con el pecho apretado y la mente a mil… esto es para ti.
-> La Biblia dice: *"Por nada estéis afanosos, sino sean conocidas vuestras peticiones delante de Dios."* Filipenses 4:6.
-> Hoy haz esto: escribe en un papel lo que te preocupa… y entrégaselo a Dios en una oración corta. Solo eso.
-> Él cuida de ti. Nos vemos mañana.
+> Si esta semana te tiene sin fuerzas… no tienes que fingir que estás bien.
+> Jesús dijo: *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* Mateo 11:28.
+> Esta noche, antes de dormir, apaga el teléfono cinco minutos y solo dile: "Señor, estoy cansado. Ayúdame a descansar."
+> Que Dios te bendiga. Nos vemos mañana.
 
-**Texto en pantalla:** "Para el que despertó con ansiedad" + "Filipenses 4:6"
-**Caption:** No tienes que cargarlo todo sola/solo 🤍 Escribe "Lo entrego" en los comentarios si hoy se lo das a Dios. #ansiedad #paz #Dios #oración
+**Texto en pantalla:** "Para el que ya no puede más" + "Mateo 11:28"
+**Caption:** Descansar también es fe 🤍 Comparte esto con alguien que lo necesite. #descanso #Jesús #fe #palabradeDios
 
 ---
 
-## JUE: Relato, David y Goliat, Parte 1 (1 Samuel 17), 45 s
+## JUE: Relato 2, David y Goliat, Parte 1 (1 Samuel 17), 45 s
 [Isabella, 5 s] **Gancho:**
 > Un gigante de casi tres metros. Un ejército entero temblando. Y un muchacho que nadie tomaba en serio.
 
@@ -100,20 +100,20 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 
 ---
 
-## VIE: Consejo, cansancio (25 s)
-[Isabella, más bajito, cercano]
+## VIE: Consejo 3, miedo (25 s)
+[Isabella, mirada firme y cálida]
 
-> Si esta semana te dejó sin fuerzas… no tienes que fingir que estás bien.
-> Jesús dijo: *"Venid a mí todos los que estáis trabajados y cargados, y yo os haré descansar."* Mateo 11:28.
-> Esta noche, antes de dormir, apaga el teléfono cinco minutos y solo dile: "Señor, estoy cansado. Ayúdame a descansar."
+> Si tienes miedo de lo que viene… escucha esto.
+> *"No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo."* Isaías 41:10.
+> Hoy, cada vez que sientas miedo, repítelo en voz alta. No estás solo.
 > Que Dios te bendiga. Nos vemos mañana.
 
-**Texto en pantalla:** "Para el que llegó al viernes sin fuerzas" + "Mateo 11:28"
-**Caption:** Descansar también es fe 🤍 Comparte esto con alguien que lo necesite. #descanso #Jesús #fe #palabradeDios
+**Texto en pantalla:** "Para el que tiene miedo de lo que viene" + "Isaías 41:10"
+**Caption:** No estás solo 🤍 Guarda este video para cuando lo necesites. #miedo #fe #Dios #Isaías4110
 
 ---
 
-## SÁB: Relato, David y Goliat, Parte 2, 45 s
+## SÁB: Relato 3, David y Goliat, Parte 2, 45 s
 [Isabella, 4 s] **Gancho:**
 > El jueves te dejé con un muchacho frente a un gigante. Esto pasó.
 
@@ -133,23 +133,39 @@ Formato: vertical 9:16. Texto en pantalla = subtítulos grandes. [Corchetes] = i
 > La piedra se clavó en la frente del gigante. Y Goliat cayó.
 
 [Isabella, 7 s] **Reflexión:**
-> David no ganó por ser el más fuerte. Ganó porque sabía quién peleaba con él. ¿Cuál es tu gigante hoy?
+> David no ganó por ser el más fuerte. Ganó porque sabía quién peleaba con él. ¿Cuál es tu gigante hoy? Escríbelo… mañana oraré por eso.
 > Que Dios te bendiga.
 
-**Caption:** Tu gigante no es más grande que tu Dios 🪨 ¿Cuál es el tuyo? Escríbelo y oraré por eso 🤍 #DavidyGoliat #fe #Biblia
+**Caption:** Tu gigante no es más grande que tu Dios 🪨 Escribe cuál es el tuyo; mañana oro por ti 🤍 #DavidyGoliat #fe #Biblia
 
 ---
 
-## RESERVA: Consejo, miedo (25 s)
-> Si tienes miedo de lo que viene, escucha esto.
-> *"No temas, porque yo estoy contigo; no desmayes, porque yo soy tu Dios que te esfuerzo."* Isaías 41:10.
-> Hoy repítelo en voz alta tres veces cuando sientas miedo. No estás solo.
-> Que Dios te bendiga. Nos vemos mañana.
+## DOM: Especial (por definir)
+Propuestas:
+
+| Opción | Idea | Por qué funciona |
+|---|---|---|
+| **A. "Oración del domingo"** ⭐ | Isabella hace una oración por lo que la gente escribió en la semana (ansiedad, cansancio, miedo, "gigantes"). | Convierte comentarios en comunidad, hace que la gente vuelva cada domingo y cierra la semana. Los captions ya piden esos comentarios. |
+| B. "Tu pregunta a la Biblia" | Responde una pregunta de los comentarios con un versículo. | Genera conversación y da ideas de contenido gratis. |
+| C. "Versículo de la semana" | Un versículo para memorizar, en fondo bonito + su voz. | El más simple y barato. |
+
+### Guion opción A: Oración del domingo (40 s)
+[Isabella con velas encendidas suaves, manos juntas sobre la Biblia, ojos cerrados al orar]
+
+> Esta semana muchos me escribieron. Algunos con ansiedad… otros cansados… otros con miedo… y muchos me contaron su gigante.
+> Hoy quiero orar por ti. Si quieres, cierra los ojos conmigo.
+> [Ojos cerrados]
+> Señor, pon tu paz en cada mente que no descansa. Da fuerzas al que ya no puede más. Quita el miedo del que no sabe qué viene. Y pelea por cada uno frente a su gigante. En el nombre de Jesús, amén.
+> [Abre los ojos, sonríe]
+> Que Dios te bendiga. Nos vemos mañana para empezar una nueva semana.
+
+**Caption:** Oración del domingo 🙏 por todos los que me escribieron esta semana. Escribe "Amén" si la recibes 🤍 #oración #Dios #fe #domingo
 
 ---
 
 ## Checklist antes de publicar
-- [ ] Crear cuentas con el mismo nombre en TikTok, Instagram, YouTube y Facebook.
+- [ ] Crear `@isabellafe` en TikTok, Instagram, YouTube y Facebook (mismo usuario).
+- [ ] Nombre visible: `Isabella • Fe | Biblia | Palabra diaria`.
 - [ ] Foto de perfil = retrato de referencia de Isabella.
 - [ ] Bio con "Personaje creado con IA ✨".
 - [ ] Activar la etiqueta de contenido IA al subir cada video.

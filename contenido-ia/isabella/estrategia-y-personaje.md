@@ -36,13 +36,13 @@ El producto propio y los afiliados suelen pagar más que las vistas en este nich
 ### Calendario semanal
 | Lun | Mar | Mié | Jue | Vie | Sáb | Dom |
 |---|---|---|---|---|---|---|
-| Consejo | Relato | Consejo | Relato | Consejo | Relato | Descanso / repost del mejor |
+| Consejo | Relato | Consejo | Relato | Consejo | Relato | Especial (ej. Oración del domingo) |
 
 Semana 1 empieza con la **presentación** el lunes (ver `guiones-semana-1.md`).
 
 ## 4. Personaje
 - **Nombre:** Isabella ("consagrada a Dios").
-- **Cuenta:** por definir (ver propuestas en MEMORIA.md).
+- **Cuenta:** `@isabellafe` (mismo usuario en todas las redes). Nombre visible: `Isabella • Fe | Biblia | Palabra diaria`.
 - **Bio:** `Una palabra de Dios para tu día 🤍 | Relatos de la Biblia | Personaje creado con IA ✨`
 - **Edad / look:** 27 años, guapa y decente. Cabello castaño oscuro largo, suelto u ondulado. Maquillaje natural. Ojos cálidos. Sonrisa serena.
 - **Ropa:** suéter tejido crema, blusas sencillas de tonos tierra, collar fino con cruz dorada. Nada escotado ni ajustado.
